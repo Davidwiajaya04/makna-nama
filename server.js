@@ -1,4 +1,4 @@
-// ================================================================
+// ===============================================================
 // MAKNANAME — Backend Server (Node.js + Express)
 // File: server.js
 // Sistem 3 Lapis: Database → Wikidata → Claude AI
