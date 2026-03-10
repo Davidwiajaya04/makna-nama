@@ -2,7 +2,7 @@
   "name": "maknaname-backend",
   "version": "2.0.0",
   "description": "Backend API MaknaName — Arti Nama Indonesia",
-  "main": "02_server.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node 02_server.js",
